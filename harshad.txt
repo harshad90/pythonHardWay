@@ -1,1 +1,2 @@
-adsadsadsadsadsadsad
+Hi adding few lines to text file
+We can add new lines and see changes in the file to be copied.
