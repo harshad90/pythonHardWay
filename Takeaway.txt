@@ -1,0 +1,45 @@
+--------------------------------------Exercise:1-------------------------------------------------
+print statement
+print ("YOUR STATEMENT") #comment
+print ('YOUR STATEMENT') #String can be written between " " or ' ' or ''' '''
+print ('''YOUR STATEMENT''')
+
+--------------------------------------Exercise:2-------------------------------------------------
+# A comment, this is so you can read your program later.
+# Anything after the # is ignored by python.
+
+
+--------------------------------------Exercise:3-------------------------------------------------
+ + plus
+ - minus
+ / slash
+ * asterisk
+ % percent
+ < less-than
+ > greater-than
+ <= less-than-equal
+ >= greater-than-equal
+
+--------------------------------------Exercise:4-------------------------------------------------
+single " = " is used to assign a value to a variable
+double " = = " is used to check whether two values are equal. 
+
+--------------------------------------Exercise:5-------------------------------------------------
+To make strings that have variables embedded in them.
+
+You embed variables inside a string by using a special {} sequence and then put 
+the variable you want inside the {} characters. You also must start the string with 
+the letter f for “format”, as in f"Hello {somevar}" . This little f before the " 
+(double-quote)and the {} characters tell Python 3,
+“Hey, this string needs to be formatted.
+
+--------------------------------------Exercise:7-------------------------------------------------
+print ("Finance is the branch of {}.".format( 'Science' ))
+.format can be used as above directly with declaretion of string
+To concatenate string use '+' and to use a space between string use ' '
+
+--------------------------------------Exercise:8-------------------------------------------------
+
+
+
+

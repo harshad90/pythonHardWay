@@ -1,0 +1,7 @@
+to see you
+yo nice 
+hi how are
+prod1=sqldf("select * from df2 where Product='Prod_1' ")
+prod2=sqldf("select * from df2 where Product='Prod_2' ")
+prod3=sqldf("select * from df2 where Product='Prod_3' ")
+
